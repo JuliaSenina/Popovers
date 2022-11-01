@@ -1,3 +1,4 @@
+/** * @jest-environment jsdom */
 import Button from '../button';
 
 test('button should render self', () => {
